@@ -54,6 +54,9 @@ class Program
         {
             Console.WriteLine("Mi valor no es menor que 6 ni mayor a 7");
         }
+
+        string variable7 = "Soy otra cadena de texto";
+        Console.WriteLine(variable7);
     }
 }
 
