@@ -1,0 +1,14 @@
+C:\Users\user01\Desktop\Prueba C#\bin\Debug\net9.0\Prueba C#.exe
+C:\Users\user01\Desktop\Prueba C#\bin\Debug\net9.0\Prueba C#.deps.json
+C:\Users\user01\Desktop\Prueba C#\bin\Debug\net9.0\Prueba C#.runtimeconfig.json
+C:\Users\user01\Desktop\Prueba C#\bin\Debug\net9.0\Prueba C#.dll
+C:\Users\user01\Desktop\Prueba C#\bin\Debug\net9.0\Prueba C#.pdb
+C:\Users\user01\Desktop\Prueba C#\obj\Debug\net9.0\Prueba C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user01\Desktop\Prueba C#\obj\Debug\net9.0\Prueba C#.AssemblyInfoInputs.cache
+C:\Users\user01\Desktop\Prueba C#\obj\Debug\net9.0\Prueba C#.AssemblyInfo.cs
+C:\Users\user01\Desktop\Prueba C#\obj\Debug\net9.0\Prueba C#.csproj.CoreCompileInputs.cache
+C:\Users\user01\Desktop\Prueba C#\obj\Debug\net9.0\Prueba C#.dll
+C:\Users\user01\Desktop\Prueba C#\obj\Debug\net9.0\refint\Prueba C#.dll
+C:\Users\user01\Desktop\Prueba C#\obj\Debug\net9.0\Prueba C#.pdb
+C:\Users\user01\Desktop\Prueba C#\obj\Debug\net9.0\Prueba C#.genruntimeconfig.cache
+C:\Users\user01\Desktop\Prueba C#\obj\Debug\net9.0\ref\Prueba C#.dll
